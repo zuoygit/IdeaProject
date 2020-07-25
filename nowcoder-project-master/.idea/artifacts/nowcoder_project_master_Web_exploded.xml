@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="nowcoder-project-master:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/nowcoder_project_master_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="nowcoder-project-master/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="nowcoder-project-master" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
